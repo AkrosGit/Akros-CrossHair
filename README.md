@@ -11,7 +11,7 @@ Esta es una aplicación de superposición de miras que no interfiere con los cli
 - **Editor a pantalla completa:** Ajuste visual interactivo arrastrando con el ratón o calibrando píxel a píxel.
 - **Perfiles predefinidos (*Presets*) y Grupos:** Guarda configuraciones y agrúpalas por categorías.
 - **Detección automática de juegos:** Asocia perfiles a ejecutables específicos; la aplicación activará y aplicará el perfil automáticamente cuando detecte el juego en primer plano.
-- **Estados dinámicos por perfil:** Configura variantes de una mira (por ejemplo, para modo apuntado o francotirador) activadas al mantener o alternar botones del ratón, teclas o gatillos del mando.
+- **Estados dinámicos por perfil:** Configura variantes de una mira (por ejemplo, para modo apuntado) activadas al mantener o alternar botones del ratón, teclas o gatillos del mando.
 - **Soporte para mandos:** Detección de mandos Xbox y compatibles mediante XInput y SDL (pygame-ce).
 - **Bandeja del sistema:** Se minimiza junto al reloj de Windows y permite arranque automático al encender el equipo.
 
@@ -20,7 +20,7 @@ Esta es una aplicación de superposición de miras que no interfiere con los cli
 ## Instalación
 
 Ejecuta `AkrosCrossHair-Setup.exe` y sigue el asistente. 
-- La instalación crea un acceso directo en el menú de inicio y permite crear otro en el escritorio. 
+La instalación crea un acceso directo en el menú de inicio y permite crear otro en el escritorio. 
 
 ### Ejecutar desde el código fuente
 
