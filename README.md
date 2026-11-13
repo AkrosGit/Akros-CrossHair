@@ -1,6 +1,6 @@
 # Akro's CrossHair
 
-Aplicación de superposición de miras. Permite colocar miras personalizadas en videojuegos e incluye soporte para atajos de teclado, ratón y mandos, además de detección automática de juegos y un editor interactivo a pantalla completa.
+Esta es una aplicación de superposición de miras que no interfiere con los clics ni con la experiencia de juego. Su función es colocar el PNG de una mira en la pantalla para saber exactamente dónde se dispara en los juegos.
 
 ---
 
